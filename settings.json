@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "windsmp.aternos.me",
+    "ip": "WindSmp.aternos.me",
     "port": 24520,
     "version": "1.20.1",
     "try-creative": false
